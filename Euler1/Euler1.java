@@ -3,7 +3,6 @@ package Euler1;
 class Euler1 {
 
     public static void main(String args[]) {
-        System.out.println("Test");
 
         int limit = 1000;
         int sum = 0;
