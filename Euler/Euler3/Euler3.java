@@ -6,6 +6,7 @@ public class Euler3 {
         long n = 600851475143L;
         double limitD = Math.sqrt((double) n);
         int limit = (int) limitD;
+        System.out.println(limit);
 
     }
 
